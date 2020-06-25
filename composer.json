@@ -24,7 +24,7 @@
 
   "require": {
     "apartamenti/olx-api-client-v2": "dev-apartamenti-patch-1"
-  }
+  },
     "require": {
         "php": ">=7.0",
         "guzzlehttp/guzzle": "^6.3",
