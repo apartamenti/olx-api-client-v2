@@ -23,7 +23,7 @@
   ],
 
   "require": {
-    "apartamenti/olx-api-client-v2": "dev-apartamenti-patch-1"
+    "apartamenti/olx-api-client-v2": "apartamenti-patch-1"
   },
     "require": {
         "php": ">=7.0",
