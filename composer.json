@@ -13,6 +13,8 @@
             "email": "matasar.ei@gmail.com"
         }
     ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
     "require": {
         "php": ">=7.0",
         "guzzlehttp/guzzle": "^6.3",
